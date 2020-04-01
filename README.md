@@ -46,7 +46,7 @@ rasa init --no-prompt
 Above command will create some configuration files in your system that we can customize as per our needs.Below files will be created:
 
 | Column Name        | Description                                                       |
-| -------------      |:-------------                                              :      | 
+| -------------      |-------------------------------------------------------------------| 
 | __init__.py        | an empty file that helps python find your actions                 | 
 | actions.py         | code for your custom actions                                      |  
 | config.yml         | configuration of your NLU and Core models                         | 
